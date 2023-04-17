@@ -1,0 +1,12 @@
+.hero {
+    height: calc(91vh);
+    /* background-color: red; */
+}
+
+.hero img {
+    height: 91vh
+}
+
+.logo {
+    max-width: 150px;
+}
